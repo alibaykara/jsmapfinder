@@ -36,7 +36,7 @@ Bu aracı kullanmak için Python 3.x gereklidir.
 En basit haliyle bir URL taramak için:
 
 ```bash
-python jsmapfinder.py -u https://example.com
+python jsmapfinder.py -u https://example.com -b -o results/
 ```
 
 ### Parametreler
