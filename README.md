@@ -90,11 +90,9 @@ Bu araç yalnızca yasal ve izinli güvenlik testleri veya eğitim amaçlı kull
 
 Hataları bildirmek veya özellik eklemek isterseniz, lütfen bir "Issue" açın veya "Pull Request" gönderin.
 
-```
-```
-
 ```text
 requests
 beautifulsoup4
 jsbeautifier
 argparse
+```
